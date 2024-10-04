@@ -1,0 +1,11 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<title>registration form</title>
+</head>
+<body>
+<form action="action_page.php">
+<label for="name"><b>Name</b></label>
+</form>
+</body>
+</html>
